@@ -13,6 +13,8 @@ just type
 
 python subbul.py
 
+You may add it to bashrc with an alias to run easily. 
+
 The code is for downloading Turkish subtitles with utf8 encoding for .mp4 files in current directory.
 
 You can replace or modify the code easily for other options.
